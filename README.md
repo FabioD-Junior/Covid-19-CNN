@@ -28,7 +28,7 @@ Please, Refer to the jupyter notebook available in the repository in order to se
 
 
 #### Author
-> Fabio Duarte Junior <br> fabioduartejunior@loyalistcollege.com / fabiojr@skiff.com
+> Fabio Duarte Junior <br> fabioduartejunior@loyalistcollege.com / fabio_jr@pm.me
 
 
 #### Objective
