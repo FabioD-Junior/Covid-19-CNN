@@ -1,7 +1,12 @@
 # Covid-19-CNN
-College project aimed at creating a convolutional neural network to identify COVID-19 through lung X-ray images.
+
 
 Please, Refer to the jupyter notebook available in the repository in order to see the Pyhton code.
+
+
+
+##### <table style="border-collapse: collapse; border: 0;"><tr> <td style="border: 0;">![Markdown Logo](x-ray_CNN.webp) </td> <td style="border: 0;"> College project aimed at creating a convolutional neural network to identify COVID-19 through lung X-ray images. </td> </tr> </table>
+
 
 **Disclaimer**
 
